@@ -2,21 +2,21 @@
 Objective of the repository is to learn and build ML/DL models from scratch using Pytorch.
 It is a large tutorial, and as such, it is divided into three parts; they are:
 
-I. How to Install PyTorch
-  1. What Are Torch and PyTorch?
-  2. How to Install PyTorch
-  3. How to Confirm PyTorch Is Installed
-II. PyTorch Deep Learning Model Life-Cycle
-  1. Step 1: Prepare the Data
-  2. Step 2: Define the Model
-  3. Step 3: Train the Model
-  4. Step 4: Evaluate the Model
-  5. Step 5: Make Predictions
-III. How to Develop PyTorch Deep Learning Models
-  1. How to Develop an MLP for Binary Classification
-  2. How to Develop an MLP for Multiclass Classification
-  3. How to Develop an MLP for Regression
-  4. How to Develop a CNN for Image Classification
+1. How to Install PyTorch
+  - What Are Torch and PyTorch?
+  -  How to Install PyTorch
+  - How to Confirm PyTorch Is Installed
+2. PyTorch Deep Learning Model Life-Cycle
+  - Step 1: Prepare the Data
+  - Step 2: Define the Model
+  - Step 3: Train the Model
+  - Step 4: Evaluate the Model
+  - Step 5: Make Predictions
+3. How to Develop PyTorch Deep Learning Models
+  - How to Develop an MLP for Binary Classification
+  - How to Develop an MLP for Multiclass Classification
+  - How to Develop an MLP for Regression
+  - How to Develop a CNN for Image Classification
 
 ## List of pytorch basic
 - Tensor basic: [Tensor_Pytorch.ipynb](https://github.com/minhbao1705/pytorch_tutorial/blob/d5bd563574bfe95d68c35d408c1b80d0f300071b/Tensor_Pytorch.ipynb)
