@@ -2,7 +2,7 @@
 Objective of the repository is to learn and build ML/DL models from scratch using Pytorch.
 It is a large tutorial, and as such, it is divided into three parts; they are:
 
-1. How to Install PyTorch
+I. How to Install PyTorch
   1. What Are Torch and PyTorch?
   2. How to Install PyTorch
   3. How to Confirm PyTorch Is Installed
