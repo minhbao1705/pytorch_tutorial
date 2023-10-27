@@ -27,4 +27,5 @@ It is a large tutorial, and as such, it is divided into three parts; they are:
 - Feedforward neural network: [feedforward_neural_network.ipynb](https://github.com/minhbao1705/pytorch_tutorial/blob/6584e43bd5bdfae13057cdda7722d8c39b8b2ec9/feedforward_neural_network.ipynb)
 - Logistic regression: [Logistic_regression.ipynb](https://github.com/minhbao1705/pytorch_tutorial/blob/6584e43bd5bdfae13057cdda7722d8c39b8b2ec9/Logistic_regression.ipynb)
 - Linear regression: [Linear_Regression.ipynb](https://github.com/minhbao1705/pytorch_tutorial/blob/6584e43bd5bdfae13057cdda7722d8c39b8b2ec9/Linear_Regression.ipynb)
+- PyTorch_Tutorial_How_to_Develop_Deep_Learning_Models_with_Python: [PyTorch_Tutorial_How_to_Develop_Deep_Learning_Models_with_Python.ipynb](https://github.com/minhbao1705/pytorch_tutorial/blob/main/PyTorch_Tutorial_How_to_Develop_Deep_Learning_Models_with_Python.ipynb)
 ---
