@@ -1,5 +1,4 @@
 ![image](https://github.com/minhbao1705/pytorch_tutorial/assets/62323334/24f1da13-a875-4ecb-a93c-603694a2ebe7)
-
 # Learn Pytorch
 Objective of the repository is to learn and build ML/DL models from scratch using Pytorch.
 It is a large tutorial, and as such, it is divided into three parts; they are:
