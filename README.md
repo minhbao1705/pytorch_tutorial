@@ -28,6 +28,8 @@ It is a large tutorial, and as such, it is divided into three parts; they are:
 - Logistic regression: [Logistic_regression.ipynb](https://github.com/minhbao1705/pytorch_tutorial/blob/6584e43bd5bdfae13057cdda7722d8c39b8b2ec9/Logistic_regression.ipynb)
 - Linear regression: [Linear_Regression.ipynb](https://github.com/minhbao1705/pytorch_tutorial/blob/6584e43bd5bdfae13057cdda7722d8c39b8b2ec9/Linear_Regression.ipynb)
 - How to Develop Deep Learning Models with PyTorch: [PyTorch_Tutorial_How_to_Develop_Deep_Learning_Models_with_Python.ipynb](https://github.com/minhbao1705/pytorch_tutorial/blob/main/PyTorch_Tutorial_How_to_Develop_Deep_Learning_Models_with_Python.ipynb)
----
+
 ## PyTorch for Deep Learning & Machine Learning – Full Course
 - 00. PyTorch Fundamentals: [00_pytorch_fundamentals_video.ipynb](https://github.com/minhbao1705/pytorch_tutorial/blob/main/PyTorch%20for%20Deep%20Learning%20%26%20Machine%20Learning%20%E2%80%93%20Full%20Course/00_pytorch_fundamentals_video.ipynb)
+---
+
