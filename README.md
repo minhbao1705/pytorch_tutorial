@@ -9,6 +9,7 @@ It is a large tutorial, and as such, it is divided into three parts; they are:
     - How to Confirm PyTorch Is Installed
 2. PyTorch Deep Learning Model Life-Cycle
     - Step 1: Prepare the Data
+![image](https://github.com/minhbao1705/pytorch_tutorial/assets/62323334/a47d6090-f738-45ca-a71f-158ad4c9ffce)
     - Step 2: Define the Model
     - Step 3: Train the Model
     - Step 4: Evaluate the Model
