@@ -32,6 +32,7 @@ It is a large tutorial, and as such, it is divided into three parts; they are:
 - How to Develop Deep Learning Models with PyTorch: [PyTorch_Tutorial_How_to_Develop_Deep_Learning_Models_with_Python.ipynb](https://github.com/minhbao1705/pytorch_tutorial/blob/main/PyTorch_Tutorial_How_to_Develop_Deep_Learning_Models_with_Python.ipynb)
 
 ## PyTorch for Deep Learning & Machine Learning – Full Course
-- 00. PyTorch Fundamentals: [00_pytorch_fundamentals_video.ipynb](https://github.com/minhbao1705/pytorch_tutorial/blob/main/PyTorch%20for%20Deep%20Learning%20%26%20Machine%20Learning%20%E2%80%93%20Full%20Course/00_pytorch_fundamentals_video.ipynb)
+- 00. PyTorch Fundamentals: [00_pytorch_fundamentals.ipynb](https://github.com/minhbao1705/pytorch_tutorial/blob/main/PyTorch%20for%20Deep%20Learning%20%26%20Machine%20Learning%20%E2%80%93%20Full%20Course/00_pytorch_fundamentals_video.ipynb)
+- 01. PyTorch Workflow: [01_pytorch_workflow.ipynb](https://github.com/minhbao1705/pytorch_tutorial/blob/main/PyTorch%20for%20Deep%20Learning%20%26%20Machine%20Learning%20%E2%80%93%20Full%20Course/01_pytorch_workflow.ipynb)
 ---
 
